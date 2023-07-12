@@ -1,4 +1,4 @@
-## Notice Board
+## Notice Board.
 
 - Create a notice board
 - Using input box and title you can add a new notice
